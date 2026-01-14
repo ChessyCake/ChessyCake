@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, and Node.js**
 
-- 👨‍💻 All of my projects are available at [harshrajminj.netlify.app](harshrajminj.netlify.app) || [harshrajminj.pages.dev](harshrajminj.pages.dev)
+- 👨‍💻 All of my projects are available at [harshrajminj.netlify.app](harshrajminj.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
