@@ -1,1 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89986D&background=99CCAA00&width=435&lines=%23Harsh+Raj+Minj;github.com%2FChessyCake)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Harsh Raj Minj</h1>
+<h3 align="center">A passionate student who just still learning and exploring tech</h3>
+
+- 🌱 I’m currently learning **React, and Node.js**
+
+- 👨‍💻 All of my projects are available at [harshrajminj.netlify.app](harshrajminj.netlify.app)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
