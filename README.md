@@ -8,7 +8,7 @@
 - 😊 I'm always open to work!
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs" />
 </a>
 
  
